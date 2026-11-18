@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="YKHinspector/YKHinspector.csproj" Id="31bb8a5c-d833-459e-8196-49a6e044c442">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
