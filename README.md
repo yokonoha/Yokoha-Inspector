@@ -7,7 +7,7 @@
 
 ## 概要
 
-Yokoha Inspector は、Windows標準搭載の `powercfg.exe` が生成するバッテリーレポートを利用し、ノートPCのバッテリー健康度を自動で判定するソフトウェアです。
+Yokoha Inspector は、`powercfg.exe` が生成するバッテリーレポートを利用し、ノートPCのバッテリー健康度を自動で判定するソフトウェアです。
 
 バッテリーの設計容量（Design Capacity）と満充電容量（Full Charge Capacity）などの情報を取得し、その劣化具合を独自の基準で評価します。
 
