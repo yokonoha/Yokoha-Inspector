@@ -94,7 +94,7 @@ Yokoha Inspector は、`powercfg.exe` が生成するバッテリーレポート
 
 最新版および詳細情報は、以下の公式ページをご確認ください。
 
-**[Yokoha Inspector 公式ページ](https://yokonoha.github.io/yokohainspector/)**
+**[Yokoha Inspector ソフトウェア特設サイト](https://yokonoha.github.io/yokohainspector)**
 
 ## ライセンス
 
